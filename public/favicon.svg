@@ -1,0 +1,62 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Metallic / Silver rounded square app icon card -->
+  <rect x="8" y="8" width="384" height="384" rx="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="14"/>
+  
+  <!-- Inner Black Circular Border -->
+  <circle cx="200" cy="185" r="135" fill="#FFFFFF" stroke="#111827" stroke-width="12"/>
+
+  <!-- Dairy Cow Illustration -->
+  <g id="dairy-cow">
+    <!-- Left & Right Ears -->
+    <ellipse cx="120" cy="145" rx="32" ry="18" transform="rotate(-25 120 145)" fill="#FFFFFF" stroke="#111827" stroke-width="8"/>
+    <ellipse cx="120" cy="145" rx="24" ry="11" transform="rotate(-25 120 145)" fill="#F472B6"/>
+    
+    <ellipse cx="280" cy="145" rx="32" ry="18" transform="rotate(25 280 145)" fill="#FFFFFF" stroke="#111827" stroke-width="8"/>
+    <ellipse cx="280" cy="145" rx="24" ry="11" transform="rotate(25 280 145)" fill="#F472B6"/>
+
+    <!-- Small Horns -->
+    <path d="M 140 100 C 130 75, 110 80, 115 95 C 120 110, 140 115, 140 115 Z" fill="#D97706" stroke="#111827" stroke-width="6"/>
+    <path d="M 260 100 C 270 75, 290 80, 285 95 C 280 110, 260 115, 260 115 Z" fill="#D97706" stroke="#111827" stroke-width="6"/>
+
+    <!-- Cow Head Shape -->
+    <path d="M 140 115 C 130 150, 130 190, 150 220 C 170 250, 230 250, 250 220 C 270 190, 270 150, 260 115 C 240 100, 160 100, 140 115 Z" fill="#FFFFFF" stroke="#111827" stroke-width="8"/>
+
+    <!-- Fluffy Hair Crest -->
+    <path d="M 165 95 C 175 80, 195 80, 200 90 C 205 80, 225 80, 235 95 C 220 105, 180 105, 165 95 Z" fill="#FFFFFF" stroke="#111827" stroke-width="6"/>
+
+    <!-- Black Spots on Cow -->
+    <path d="M 142 125 C 160 120, 175 140, 170 165 C 150 170, 135 155, 142 125 Z" fill="#111827"/>
+    <path d="M 255 125 C 240 120, 230 135, 235 155 C 250 165, 265 150, 255 125 Z" fill="#111827"/>
+    <ellipse cx="145" cy="205" rx="10" ry="16" fill="#111827"/>
+    <ellipse cx="255" cy="205" rx="8" ry="14" fill="#111827"/>
+
+    <!-- Expressive Eyes -->
+    <ellipse cx="172" cy="160" rx="14" ry="20" fill="#111827"/>
+    <ellipse cx="168" cy="153" rx="5" ry="7" fill="#FFFFFF"/>
+    <ellipse cx="176" cy="167" rx="2.5" ry="3.5" fill="#FFFFFF"/>
+
+    <ellipse cx="228" cy="160" rx="14" ry="20" fill="#111827"/>
+    <ellipse cx="224" cy="153" rx="5" ry="7" fill="#FFFFFF"/>
+    <ellipse cx="232" cy="167" rx="2.5" ry="3.5" fill="#FFFFFF"/>
+
+    <!-- Red Cheeks -->
+    <ellipse cx="152" cy="188" rx="6" ry="4" fill="#EF4444"/>
+    <ellipse cx="248" cy="188" rx="6" ry="4" fill="#EF4444"/>
+
+    <!-- Pink Smiling Muzzle -->
+    <rect x="160" y="185" width="80" height="48" rx="24" fill="#F472B6" stroke="#111827" stroke-width="8"/>
+    <ellipse cx="185" cy="206" rx="6" ry="8" fill="#111827"/>
+    <ellipse cx="215" cy="206" rx="6" ry="8" fill="#111827"/>
+    <path d="M 190 220 Q 200 227 210 220" fill="none" stroke="#111827" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- Front Legs and Body -->
+    <path d="M 155 240 L 155 285 L 180 285 L 180 240 Z" fill="#FFFFFF" stroke="#111827" stroke-width="7"/>
+    <path d="M 155 272 L 180 272 L 180 285 L 155 285 Z" fill="#111827"/>
+    
+    <path d="M 220 240 L 220 285 L 245 285 L 245 240 Z" fill="#FFFFFF" stroke="#111827" stroke-width="7"/>
+    <path d="M 220 272 L 245 272 L 245 285 L 220 285 Z" fill="#111827"/>
+  </g>
+
+  <!-- Official Bold Typography below circle -->
+  <text x="200" y="356" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="2" fill="#000000" text-anchor="middle">DAIRY GUARD AI</text>
+</svg>

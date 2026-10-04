@@ -1,0 +1,6 @@
+{
+  "name": "DairyGuard AI",
+  "description": "Smart dairy farm management, AI cow health screening, feed and silage quality checks, contamination alerts, veterinary and laboratory support, offline rural toolkit, and dairy marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
